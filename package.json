@@ -1,0 +1,22 @@
+{
+  "name": "vuejs_blog",
+  "version": "1.0.0",
+  "description": "This is my first VueJS 2 tutorial where developed another blog.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayedchowdury5/VueJS_Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayedchowdury5/VueJS_Blog/issues"
+  },
+  "homepage": "https://github.com/sayedchowdury5/VueJS_Blog#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
